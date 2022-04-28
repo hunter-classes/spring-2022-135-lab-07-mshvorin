@@ -8,4 +8,4 @@ lab.o: lab.cpp lab.h
 	g++ -c lab.cpp
 	
 clean: 
-	rm -f main main.o lab.o
+	rm -f tests main main.o lab.o
